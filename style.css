@@ -1,0 +1,79 @@
+.logo{
+  height: 60px;
+  width: 110px;
+}
+
+.button{
+   height: 40px;
+   width: 100px;
+}
+.i{
+  background-color: aqua;
+}
+.anh{
+  height: 200px;
+  width: 100%;
+}
+.anh1{
+  height: 400px;
+  width: 100%;
+}
+.card img{
+  background-color: #574444;
+  border-radius: 10px;
+}
+.price{
+  color: #FA804C;
+}
+.card-title{
+  color: #FA804C;
+}
+i{
+  font-size: small;
+}
+.card img{
+  background-color: #574444;
+  border-radius: 10px;
+}
+.footerIcons img {
+  width: 30px;
+  height: 30px;
+  border-radius: 10px;
+}
+.footerIcons {
+  display: flex;
+}
+.trang{
+  text-decoration: none;
+}
+.khung{
+ background-color: antiquewhite;
+}
+.footerButton {
+  padding: 5px;
+  background-color: black;
+  color: white;
+  cursor: pointer;
+}
+.footerIcon {
+  width: 20px;
+  height: 20px;
+  margin-right: 10px;
+  cursor: pointer;
+}
+.giohang{
+  height: 35px;
+  width: 50px;
+}
+.trang{
+  text-decoration: none;
+  color: rgb(33, 149, 110);
+}
+.quochuynh{
+  width: 90px;
+  height: 60px;
+}
+
+
+
+
